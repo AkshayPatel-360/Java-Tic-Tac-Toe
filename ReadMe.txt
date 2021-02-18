@@ -9,6 +9,7 @@ Akshay Patel :
 GameGui - Game logic
 	- Win/draw algorithm 
 	- Game logs 
+	- Music,SoundEffect
 ----------------------------------------------------------------------------------------
 Akhila Anjanan: 
 GameGui - UI
